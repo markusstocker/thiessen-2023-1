@@ -1,6 +1,6 @@
 # thiessen-2023-1
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://https://notebooks.gesis.org/binder/v2/gh/markusstocker/thiessen-2023-1/HEAD?labpath=source-code-001.py)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/markusstocker/thiessen-2023-1/HEAD?labpath=source-code-001.py)
 
 https://orkg.org/paper/R657858/R657901
 
